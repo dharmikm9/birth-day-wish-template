@@ -1,0 +1,168 @@
+@media(max-width:960px and min-width:320p){
+    .body{
+        width: 1200;
+        height: 100%;
+        overflow:scroll;
+        
+    }
+}
+
+body{
+   
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    margin: auto;
+    overflow:scroll;
+        
+    
+}
+#bg{
+    width: 1200;
+    height:  900;
+    border: 3px solid rgb(237,228,195);
+    background: url("bg.jpg") no-repeat center center scroll;
+    margin: auto;
+    margin-top: 50;
+}
+
+#rib{
+    
+    width: auto;
+    height: 900;
+    border: 6px solid red hidden;
+    background: url(rib1.png) scroll center center no-repeat;
+   
+    padding-top: 0px;
+    padding-left: 0px;
+    
+ 
+}
+
+#wish{
+    width: 700px;
+    height: 100px;
+    color: blue;
+    border: 5px solid red hidden;
+    float: right;
+    margin-top: 130;
+    margin-right: 50;
+    font-family: times new roman;
+    font-size: 34px;
+    font-style: italic;
+    font-weight: 700;
+    text-decoration: blink;
+    text-transform: capitalize;
+    color: beige;
+    
+    
+    
+    
+}
+
+#hbd
+{   width: 550;
+    height: 400;
+    background: url(hbd2.png) no-repeat;
+    border: 1px solid red hidden;
+    float: right;
+    margin-top: 90px;
+    margin-right: 230;
+    
+}
+
+#from{
+   width: 25px;
+    height: 160px;
+    color: blue;
+    border: 5px solid red hidden;
+    margin-top:380 ;
+    margin-left:160 ;
+    padding-top: ;
+    font-family: times new roman;
+    font-size: 34px;
+    font-style: italic;
+    font-weight: 700;
+    text-decoration: blink;
+    text-transform: capitalize;
+    color: beige;
+    letter-spacing:80;
+    word-wrap: break-word;
+    float: left;
+   
+}
+
+#dharmik{
+   width: 25px;
+    height: 50px;
+    color: blue;
+    border: 5px solid red hidden ;
+    float:left;
+    margin-top: 580;
+    margin-left: -25;
+    font-family: times new roman;
+    font-size: 34px;
+    font-style: italic;
+    font-weight: 700;
+    text-decoration: blink;
+    text-transform: capitalize;
+    color: beige;
+    vertical-align: baseline;
+    letter-spacing:80;
+    word-wrap: break-word;
+    
+}
+
+#cake{
+    border: 1px solid red hidden;
+    width: 239;
+    height: 277;
+    background: url(happy-birthday-chocolate-cake-for-friend-large_chocolate-birthday-cake1.png) no-repeat;
+    float: right;
+    position: absolute;
+    margin: 623 0 0 960;
+}
+
+#footer{
+    width: 1200;
+    height: 30;
+    border: 1px solid red hidden;
+    margin: auto;
+}
+
+
+
+
+
+#email{
+    border: 1px solid red hidden ;
+    width: auto;
+    height: auto;
+    padding-right: 755;
+    margin-top: 5;
+    letter-spacing: 1.5;
+    font-weight: 100;
+    font-size: 24;
+    position: absolute;
+    float: right;
+    color: white;
+}
+
+#copyright{
+    border: 1px solid red hidden;
+    width: 300;
+    height: 20;
+    color: azure;
+    
+    padding-left: 940;
+    margin-top: 3;
+    letter-spacing: 1.5;
+    font-weight: 100;
+    font-size: 24;
+    float: left;
+    
+}
+
+
+
+
